@@ -1,6 +1,6 @@
 # K-Means-Clustering-Analysis
 
-This file performs two seperate K Means Cluster Analysese on data from a Financial Institution. The first clustering is built off of demographic information, while the second clustering is built off of values within the dataset.
+This file performs two seperate K Means Cluster Analyses on data from a Financial Institution. The first clustering is built off of demographic information, while the second clustering is built off of values within the dataset.
 
 In the values clustering I will dive deeper into the results and pull key characteristics of each cluster. 
 
