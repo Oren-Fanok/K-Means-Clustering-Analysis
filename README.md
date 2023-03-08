@@ -4,4 +4,4 @@ This file performs two seperate K Means Cluster Analyses on data from a Financia
 
 In the values clustering I will dive deeper into the results and pull key characteristics of each cluster. 
 
-Note we are using SKLearn to perform the K Means Cluster Analysis.
+Note: I am using SKLearn to perform the K Means Cluster Analysis.
